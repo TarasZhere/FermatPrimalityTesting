@@ -20,7 +20,7 @@ If we do pick an a such that
 
 then a is known as a Fermat witness for the compositeness of n. 
 
------------- Example -------------
+--------------------------------------------------------- Example -------------------------------------------------------------------------
 Suppose we wish to determine whether n = 221 is prime. Randomly pick 1 < a < 221, say a = 38. We check the above equality and find that it holds:
 
     a^(n − 1) = 38^220 ≡ 1 ( mod 221 ) .
